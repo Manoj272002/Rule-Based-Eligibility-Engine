@@ -16,23 +16,11 @@ A simple, flexible rule engine implemented using Flask, designed to determine us
 - **Python Operators:** Used for implementing logical and comparison operators in eligibility rules.
 
 ## Installation
+1. Install the required packages:
+pip install Flask
+2. **Run the Application:**
+python app.py
 
-1. **Clone the Repository:**
-    ```bash
-    git clone https://github.com/yourusername/Rule-Based-Eligibility-Engine.git
-    cd Rule-Based-Eligibility-Engine
-    ```
-
-2. **Install Requirements:**
-    Ensure Python 3.8+ and pip are installed, then run:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. **Run the Application:**
-    ```bash
-    python app.py
-    ```
 
 The Flask server will start on `http://127.0.0.1:5000`. Open this URL in your browser to access the application.
 
